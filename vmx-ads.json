@@ -1,0 +1,34 @@
+{
+  "imgs": [
+    {
+      "smallBanner": "https://play-lh.googleusercontent.com/mqxvu6gHgEwpfSnkZIVh18-VTFVAM4uZs3MSzQEWNv4tVz-2yuNL2BO_-fn00Cw46N0=w720-h100-rw",
+      "bigBanner": "https://play-lh.googleusercontent.com/mqxvu6gHgEwpfSnkZIVh18-VTFVAM4uZs3MSzQEWNv4tVz-2yuNL2BO_-fn00Cw46N0=w416-h235-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.everjoy.watersort"
+    },
+    {
+      "smallBanner": "https://play-lh.googleusercontent.com/luxwZLXy90Jjq8RKd3eTamzd0K7VQTXGKSny0Va6-rQHboQpYl7_ADm4tKc9BiVufZs=w720-h100-rw",
+      "bigBanner": "https://play-lh.googleusercontent.com/luxwZLXy90Jjq8RKd3eTamzd0K7VQTXGKSny0Va6-rQHboQpYl7_ADm4tKc9BiVufZs=w416-h235-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.everjoy.blockblastpuzzle"
+    },
+    {
+      "smallBanner": "https://play-lh.googleusercontent.com/dnIzCxHQyNd2n2__FuaJ9PkRatQLlAujpJRfcKIQlAILWKC5Q39t54LMPiugz_s6yg=w720-h100-rw",
+      "bigBanner": "https://play-lh.googleusercontent.com/dnIzCxHQyNd2n2__FuaJ9PkRatQLlAujpJRfcKIQlAILWKC5Q39t54LMPiugz_s6yg=w416-h235-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.everjoy.fisheaters"
+    }
+  ],
+  "videos": [
+    {
+      "res": "https://play-games.googleusercontent.com/vp/mp4/1280x720/WRSv9tEGPaE.mp4",
+      "link": "https://play.google.com/store/apps/details?id=com.everjoy.watersort"
+    },
+    {
+      "res": "https://play-games.googleusercontent.com/vp/mp4/1280x720/WRSv9tEGPaE.mp4",
+      "link": "https://play.google.com/store/apps/details?id=com.everjoy.blockblastpuzzle"
+    },
+    {
+      "res": "https://play-games.googleusercontent.com/vp/mp4/1280x720/WRSv9tEGPaE.mp4",
+      "link": "https://play.google.com/store/apps/details?id=com.everjoy.fisheaters"
+    }
+  ],
+  "countdown": 12
+}
