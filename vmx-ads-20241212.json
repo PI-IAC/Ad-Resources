@@ -1,0 +1,43 @@
+{
+  "imgs": [
+    {
+      "smallBanner": "https://cdn.jsdelivr.net/gh/PI-IAC/Ad-Resources@main/%E5%B0%8Fbanner/offlinejoyplay.png",
+      "bigBanner": "https://play-lh.googleusercontent.com/_q4s-yNA9jIbyjNexePSIRVZJjxmFF0e3N-0n7RaWMlVoqEbnADssma8Clp7DEVHS0hg=w416-h235-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.everjoy.offlinejoyplay"
+    },
+    {
+      "smallBanner": "https://cdn.jsdelivr.net/gh/PI-IAC/Ad-Resources@main/%E5%B0%8Fbanner/offlinejoyplay.png",
+      "bigBanner": "https://play-lh.googleusercontent.com/_q4s-yNA9jIbyjNexePSIRVZJjxmFF0e3N-0n7RaWMlVoqEbnADssma8Clp7DEVHS0hg=w416-h235-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.everjoy.offlinejoyplay"
+    },
+    {
+      "smallBanner": "https://cdn.jsdelivr.net/gh/PI-IAC/Ad-Resources@main/%E5%B0%8Fbanner/offlinejoyplay.png",
+      "bigBanner": "https://play-lh.googleusercontent.com/_q4s-yNA9jIbyjNexePSIRVZJjxmFF0e3N-0n7RaWMlVoqEbnADssma8Clp7DEVHS0hg=w416-h235-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.everjoy.offlinejoyplay"
+    },
+    {
+      "smallBanner": "https://cdn.jsdelivr.net/gh/PI-IAC/Ad-Resources@main/%E5%B0%8Fbanner/offlinejoyplay.png",
+      "bigBanner": "https://play-lh.googleusercontent.com/_q4s-yNA9jIbyjNexePSIRVZJjxmFF0e3N-0n7RaWMlVoqEbnADssma8Clp7DEVHS0hg=w416-h235-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.everjoy.offlinejoyplay"
+    }
+  ],
+  "videos": [
+    {
+      "res": "https://play-games.googleusercontent.com/vp/mp4/1280x720/jJODnHrxZRA.mp4",
+      "link": "https://play.google.com/store/apps/details?id=com.everjoy.offlinejoyplay"
+    },
+    {
+      "res": "https://play-games.googleusercontent.com/vp/mp4/1280x720/jJODnHrxZRA.mp4",
+      "link": "https://play.google.com/store/apps/details?id=com.everjoy.offlinejoyplay"
+    },
+    {
+      "res": "https://play-games.googleusercontent.com/vp/mp4/1280x720/jJODnHrxZRA.mp4",
+      "link": "https://play.google.com/store/apps/details?id=com.everjoy.offlinejoyplay"
+    },
+    {
+      "res": "https://play-games.googleusercontent.com/vp/mp4/1280x720/jJODnHrxZRA.mp4",
+      "link": "https://play.google.com/store/apps/details?id=com.everjoy.offlinejoyplay"
+    }
+  ],
+  "countdown": 6
+}
